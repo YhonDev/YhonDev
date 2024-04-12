@@ -1,5 +1,7 @@
-
-![mi imagen perfil](![mi imagen perfil](https://drive.google.com/uc?export=view&id=ID_DE_TU_IMAGEN))
+<p align="center">
+  <img src="https://drive.google.com/file/d/1pthLFpQeyO83qxyn94ZUr9jv9W3Xu1My/view?usp=drive_link"/>
+</p>
+<br>
 
 
 
