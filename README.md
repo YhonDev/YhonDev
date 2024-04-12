@@ -1,5 +1,5 @@
 <div>
-<h1 align="center", font-size:4rem>Hi 👋, Welcome</h1>
+#Hi 👋, Welcome
 <p align="center">
   <img src="/img/github-header-image.png"/>
 </p>
@@ -9,9 +9,6 @@
 
 
 
-
-
-### 
 
 <!--
 **YhonDev/YhonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
