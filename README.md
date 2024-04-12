@@ -1,4 +1,6 @@
-<div>
+<div> 
+<img src="/giphy/cat-flow.webp">
+
 <h1 align="center", font-size:4rem>Hi 👋, Welcome</h1>
 <p align="center">
   <img src="/img/github-header-image.png"/>
