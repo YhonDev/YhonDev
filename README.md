@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1pthLFpQeyO83qxyn94ZUr9jv9W3Xu1My/view?usp=drive_link"/>
+  <img src="/img/channels4_banner.jpg"/>
 </p>
 <br>
 
-<h1 align="center">Hi there 👋, I am YhonDev </h1>
+<h1 align="center">Hi 👋, I am YhonDev </h1>
 
 
 
