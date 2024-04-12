@@ -3,7 +3,7 @@
 </p>
 <br>
 
-<h1 align="center">Hi there 👋<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
+<h1 align="center">Hi there 👋, I am YhonDev </h1>
 
 
 
