@@ -1,9 +1,13 @@
+<div>
+<h1 align="center", font-size:4rem>Hi 👋, Welcome</h1>
 <p align="center">
   <img src="/img/github-header-image.png"/>
 </p>
 <br>
 
-<h1 align="center", font-size:2rem>Hi 👋, Welcome</h1>
+</div>
+
+
 
 
 
