@@ -1,5 +1,7 @@
-<div> 
-<img src="/giphy/cat-flow.webp">
+<div>
+<p align="center">
+  <img src="/giphy/cat-flow.webp" width="200" height="150">
+</p>
 
 <h1 align="center", font-size:4rem>Hi 👋, Welcome</h1>
 <p align="center">
