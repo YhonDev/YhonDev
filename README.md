@@ -1,5 +1,5 @@
 <div>
-  <img src="/giphy/cat-flow.webp" width="60" height="50">
+  <img src="/giphy/cat-flow.gif" width="60" height="50">
   <h1 align="center", font-size:4rem>Hi 👋, Welcome</h1>
 
 
