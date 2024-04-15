@@ -9,6 +9,9 @@
 <br>
 
 </div>
+![Followers](https://img.shields.io/github/followers/YhonDev?label=Followers&style=social)
+![Repositories](https://img.shields.io/github/stars/YhonDev?label=Repositories&style=social)
+![Top Language](https://img.shields.io/github/languages/top/YhonDev)
 
 ## Tecnologias 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
