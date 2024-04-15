@@ -9,8 +9,8 @@
 <br>
 
 </div>
-![Followers](https://img.shields.io/github/followers/YhonDev?label=Followers&style=social)
-![Repositories](https://img.shields.io/github/stars/YhonDev?label=Repositories&style=social)
+![GitHub followers](https://img.shields.io/github/followers/YhonDev)
+![Repositories](https://img.shields.io/github/stars/YhonDev)
 ![Top Language](https://img.shields.io/github/languages/top/YhonDev)
 
 ## Tecnologias 💻
