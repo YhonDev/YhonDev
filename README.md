@@ -1,6 +1,6 @@
-<div>
-  <img src="/giphy/cat-flow.webp" width="60" height="50">
-  <h1 align="center", font-size:4rem>Hi 👋, Welcome</h1>
+
+<img src="/giphy/cat-flow.webp" width="60" height="50">
+<h1 align="center", font-size:4rem>Hi 👋, Welcome</h1>
 
 
 <p align="center">
@@ -8,10 +8,12 @@
 </p>
 <br>
 
-</div>
-https://img.shields.io/github/followers/YhonDev
-https://img.shields.io/github/stars/YhonDev/YhonDev
-https://img.shields.io/github/languages/top/YhonDev
+## GitHub
+![GitHub followers](https://img.shields.io/github/followers/YhonDev)
+![GitHub Repo stars](https://img.shields.io/github/stars/YhonDev/YhonDev)
+
+
+
 
 ## Tecnologias 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
